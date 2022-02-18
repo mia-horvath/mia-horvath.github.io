@@ -1,0 +1,95 @@
+body {
+    background: #24232A;   
+}
+
+header {
+    margin: .5em 0em .5em .5em;
+}
+
+main {
+    padding: 1em .5em 1em .5em;
+}
+
+
+
+h2 {
+    color: #DAD9DB;
+    font-family: guanabara-sans, sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 1.5em;
+}
+
+h3 {
+    color: #DAD9DB;
+    font-family: guanabara-sans, sans-serif;
+    font-weight: 350;
+    font-size: 1.5em;
+    
+}
+
+h4 {
+    color: #DAD9DB;
+    font-family: guanabara-sans, sans-serif;
+    font-weight: 300;
+    font-size: 1.25em;
+}
+
+
+
+
+p {
+    color: #DAD9DB;
+    font-family: guanabara-sans, sans-serif;
+    font-weight: 100;
+
+    
+}
+nav ul {
+    padding: 0;
+}
+
+nav ul li{
+    display: inline;
+    list-style-type: none;
+    margin-right: 1em;
+    color: #DAD9DB;
+    font-family: guanabara-sans, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    text-transform: lowercase;
+    font-size: 1.75em;
+   
+   
+}
+
+nav ul li a {
+    color: #DAD9DB;
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}
+
+figure {
+  margin: 0;
+
+    
+}
+
+img { 
+   max-width: 95%;
+}
+
+.description {
+    font-style: italic;
+}
+
+.price {
+    font-style: italic;
+}
+
+.store description {
+    font-style: italic;
+}
